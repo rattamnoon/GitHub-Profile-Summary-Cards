@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/rattamnoon/GitHub-Profile-Summary-Cards/main/profile-summary-card-output/panda/4-productive-time.svg)
-```
-
-    
